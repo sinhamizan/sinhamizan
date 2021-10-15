@@ -4,10 +4,35 @@
 
 Hello, Welcome to my profile. I’m a professional web designer and WordPress theme developer. I have more than 4 years of great experience in creating modern and professional websites with responsive design. Now I am learning plugin development. I have been working as a full-stack web developer in a company for the last 3 years.
 
+## My Services Area:
+✔️ Web Design(HTML5, CSS3, Bootstrap)
+✔️ Responsive & Mobile Friendly
+✔️ SEO Friendly
+✔️ Ecommerce/Corporate/ Portfolio/ Blog/ Business websites
+✔️ PSD to HTML
+✔️ PHP
+✔️ WordPress Theme Development
+✔️ WordPress Theme Customization
+✔️ PSD to WordPress Theme Development
+✔️ Website design using any page builder like Elementor, Elementor Pro, Divi, Visual Composer etc.
 
-## Skills:  
-👍 HTML5 
-CSS3 / SASS / BOOTSTRAP / BEM / JAVASCRIPT / JQuery / Responsive Design / PSD TO HTML / PHP / PSD to WordPress / WordPress Theme Development from scratch / WordPress Theme Customization / Elementor / Elementor Pro / Visual Composer / Gutenberg / Plugin development / Ecommerce website creation / WooCommerce
+## Skills:
+FRONT END:
+✔️ HTML5 
+✔️ CSS3 
+✔️ SASS/SCSS
+✔️ BOOTSTRAP 
+✔️ Foundation
+✔️ TainWind css
+✔️ BEM 
+✔️ JAVASCRIPT 
+✔️ JQuery 
+
+BACK END:
+✔️ PHP
+✔️ WordPress
+✔️ MySQL
+
 ## 
 - 🔭 I’m currently working on a php project named animal network. 
 - 🌱 I’m currently learning plugin development 
