@@ -6,7 +6,7 @@ Hello, Welcome to my profile. I’m a professional web designer and WordPress th
 
 
 ## Skills:  
-* HTML5 
+👍 HTML5 
 CSS3 / SASS / BOOTSTRAP / BEM / JAVASCRIPT / JQuery / Responsive Design / PSD TO HTML / PHP / PSD to WordPress / WordPress Theme Development from scratch / WordPress Theme Customization / Elementor / Elementor Pro / Visual Composer / Gutenberg / Plugin development / Ecommerce website creation / WooCommerce
 ## 
 - 🔭 I’m currently working on a php project named animal network. 
