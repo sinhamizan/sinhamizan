@@ -14,7 +14,7 @@ CSS3 / SASS / BOOTSTRAP / BEM / JAVASCRIPT / JQuery / Responsive Design / PSD TO
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
-
+## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/sinhamizan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/mizanur-rahaman-sinha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/mizanurrahamansinhaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/dev_mizan)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhamizan)](https://github.com/anuraghazra/github-readme-stats)
