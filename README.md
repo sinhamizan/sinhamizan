@@ -22,7 +22,7 @@ FRONT END:
 ✔️ SASS/SCSS
 ✔️ BOOTSTRAP 
 ✔️ Foundation
-✔️ TainWind css
+✔️ Tailwind css
 ✔️ BEM 
 ✔️ JAVASCRIPT 
 ✔️ JQuery 
