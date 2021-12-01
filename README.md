@@ -6,11 +6,11 @@ Hello, Welcome to my profile. I’m a professional web designer and WordPress th
 ## What services I offer:
 - Website design with fully responsive
 - Ecommerce/Corporate/ Portfolio/ Blog/ Business websites
-- PSD to HTML
+- PSD/Adobe AI/figma/invision/wix to HTML
 - WordPress Theme Development
 - WordPress Theme Customization
 - PSD to WordPress Theme Development
-- Website design using any page builder like Elementor, Elementor Pro, Divi, Visual Composer etc.
+- Website design using any page builder like Elementor, Elementor Pro, Visual Composer, Beaver, Oxyzen etc.
 
 ## Skills:
 **FRONT END:**
